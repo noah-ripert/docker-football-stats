@@ -18,8 +18,8 @@ L'objectif principal est de :
 ### **Étapes**
 1. Clonez le dépôt Git du projet :
    ```bash
-   git clone <url-du-depot>
-   cd football-analyzer
+   git clone <https://github.com/noah-ripert/docker-football-stats>
+   cd docker-football-stats
 
 2. Construisez et lancez les services avec Docker Compose :
     docker-compose up --build
